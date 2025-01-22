@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💻 Bienvenido a mi perfil de GitHub 👋
 
-<!--
-**luisfer010/luisfer010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Ingeniero de Sistemas y Computación** apasionado por el desarrollo de software y las tecnologías modernas. Tengo experiencia en la creación de aplicaciones robustas utilizando **Java** y el ecosistema de **Spring Boot**.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes de Programación:
+- **Java**: Dominio de la programación orientada a objetos.
+
+### Frameworks y Herramientas:
+- **Spring Boot**: Desarrollo de aplicaciones backend escalables.
+- **JPA / Hibernate**: Manejo de entidades, mapeo objeto-relacional y consultas avanzadas con **JPQL**.
+- **JUnit**: Pruebas unitarias para asegurar la calidad del código.
+
+### Desarrollo de Componentes:
+- **Servicios**: Implementación de lógica de negocio sólida y eficiente.
+- **Repositorios**: Gestión y persistencia de datos de manera eficaz.
+- **Controladores**: Exposición de APIs RESTful bien estructuradas.
